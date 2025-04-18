@@ -18,10 +18,15 @@ Ideal for learning linked lists, dynamic memory allocation, and basic data struc
 
 
 🧾 **Example Menu Options->**
+
 1 - Add for appointment
+
 2 - Cancel appointment
+
 3 - Come for checkup
+
 4 - Total no of appointments
+
 5 - Exit
 
 ✅ Requirements
