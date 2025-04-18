@@ -19,34 +19,34 @@ Ideal for learning linked lists, dynamic memory allocation, and basic data struc
 
 🧾 **Example Menu Options->**
 
-1 - Add for appointment
+1. Add for appointment
 
-2 - Cancel appointment
+2. Cancel appointment
 
-3 - Come for checkup
+3. Come for checkup
 
-4 - Total no of appointments
+4. Total no of appointments
 
-5 - Exit
+5. Exit
 
 ✅ Requirements
 No additional libraries needed – uses standard C libraries only (stdio.h, stdlib.h, string.h).
 
 🌟** Features (Current Phase)**
 
-1.Patient Registration (Name, ID, Age, Gender, Address, Phone)
+1. Patient Registration (Name, ID, Age, Gender, Address, Phone)
 
-2.Appointment Booking using a Doubly Linked List
+2. Appointment Booking using a Doubly Linked List
 
-3.Cancel Appointment by Patient ID
+3. Cancel Appointment by Patient ID
 
-4.First-Come-First-Serve Patient Checkup System
+4. First-Come-First-Serve Patient Checkup System
 
-5.Display All Appointments (Patient Details)
+5. Display All Appointments (Patient Details)
 
-6.Menu-based CLI for Easy Interaction
+6. Menu-based CLI for Easy Interaction
 
-7.Handles Edge Cases (Empty List, Single Node Deletion)
+7. Handles Edge Cases (Empty List, Single Node Deletion)
 
 ✅ Tech Stack
 
