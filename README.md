@@ -1,4 +1,4 @@
-**🏥 HospitalAppointmentSystem**
+#**🏥 Hospital Appointment System**
 
 A basic console-based hospital appointment management system written in C.
 It allows users to register patients, cancel appointments, manage checkups, and view all current appointments.
