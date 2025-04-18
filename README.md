@@ -7,7 +7,7 @@ Ideal for learning linked lists, dynamic memory allocation, and basic data struc
 
 **# 📁 Project Structure**
 
-| ** Function** **          | **Description**                                                                 |
+|  Function**                  | **Description**                                                                 |
 |------------------------------|----------------------------------------------------------------------------------|
 | `main()`                     | 📌 Main entry point: Displays menu and calls related functions                   |
 | `Add_appointment()`          | 📝 Registers a new patient with details (ID, Name, Age, etc.)                    |
@@ -38,6 +38,7 @@ No additional libraries needed – uses standard C libraries only (stdio.h, stdl
 7.Handles Edge Cases (Empty List, Single Node Deletion)
 
 ✅ Tech Stack
+
 C Programming Language
 
 Doubly Linked List for managing patient appointments
