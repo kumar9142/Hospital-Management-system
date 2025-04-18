@@ -50,17 +50,17 @@ No additional libraries needed – uses standard C libraries only (stdio.h, stdl
 
 ✅ Tech Stack
 
-C Programming Language
+1. C Programming Language
 
-Doubly Linked List for managing patient appointments
+2. Doubly Linked List for managing patient appointments
 
-Dynamic Memory Allocation using malloc() and free()
+3. Dynamic Memory Allocation using malloc() and free()
 
-Standard C Libraries: stdio.h, stdlib.h, string.h
+4. Standard C Libraries: stdio.h, stdlib.h, string.h
 
-Command-Line Interface (CLI) based user interaction with text menus
+5. Command-Line Interface (CLI) based user interaction with text menus
 
-Cross-platform compatibility: Works on both Linux and Windows via terminal or command prompt
+6. Cross-platform compatibility: Works on both Linux and Windows via terminal or command prompt
 
 **👥 Team Collaboration**
 
