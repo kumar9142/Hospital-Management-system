@@ -28,6 +28,7 @@ Ideal for learning linked lists, dynamic memory allocation, and basic data struc
 No additional libraries needed – uses standard C libraries only (stdio.h, stdlib.h, string.h).
 
 🌟** Features (Current Phase)**
+
 1.Patient Registration (Name, ID, Age, Gender, Address, Phone)
 2.Appointment Booking using a Doubly Linked List
 3.Cancel Appointment by Patient ID
