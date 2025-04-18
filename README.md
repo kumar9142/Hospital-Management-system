@@ -29,9 +29,9 @@ No additional libraries needed – uses standard C libraries only (stdio.h, stdl
 
 🌟** Features (Current Phase)**
 
-1.Patient Registration (Name, ID, Age, Gender, Address, Phone)
+1.Patient Registration (Name, ID, Age, Gender, Address, Phone)\n
 
-2.Appointment Booking using a Doubly Linked List
+2.Appointment Booking using a Doubly Linked List\n
 
 3.Cancel Appointment by Patient ID
 
