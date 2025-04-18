@@ -5,7 +5,7 @@ It allows users to register patients, cancel appointments, manage checkups, and 
 Ideal for learning linked lists, dynamic memory allocation, and basic data structure manipulation in C.
 
 
-**# 📁 Project Structure**
+### **📁 Project Structure**
 
 |  Function**                  | **Description**                                                                 |
 |------------------------------|----------------------------------------------------------------------------------|
@@ -17,7 +17,7 @@ Ideal for learning linked lists, dynamic memory allocation, and basic data struc
 | `struct hospital_management` | 🔗 Structure to hold patient data using a **doubly linked list**                 |
 
 
-🧾 **Example Menu Options->**
+### 🧾 **Example Menu Options->**
 
 1. Add for appointment
 
@@ -29,10 +29,10 @@ Ideal for learning linked lists, dynamic memory allocation, and basic data struc
 
 5. Exit
 
-✅ Requirements
+### ✅ Requirements
 No additional libraries needed – uses standard C libraries only (stdio.h, stdlib.h, string.h).
 
-🌟** Features (Current Phase)**
+### 🌟** Features (Current Phase)**
 
 1. Patient Registration (Name, ID, Age, Gender, Address, Phone)
 
@@ -48,7 +48,7 @@ No additional libraries needed – uses standard C libraries only (stdio.h, stdl
 
 7. Handles Edge Cases (Empty List, Single Node Deletion)
 
-✅ Tech Stack
+### ✅ Tech Stack
 
 1. C Programming Language
 
@@ -62,7 +62,7 @@ No additional libraries needed – uses standard C libraries only (stdio.h, stdl
 
 6. Cross-platform compatibility: Works on both Linux and Windows via terminal or command prompt
 
-**👥 Team Collaboration**
+### **👥 Team Collaboration**
 
 | Contribution Area               | Member             |
 |--------------------------------- |-------------------|
@@ -70,7 +70,7 @@ No additional libraries needed – uses standard C libraries only (stdio.h, stdl
 | Checkup & Queue Handling        | Ashu Kumar         |
 | Appointment Booking Logic       | Mradul Dixit       |
 
-**Screenshot**
+### **Screenshot**
 
 ![image](https://github.com/user-attachments/assets/fe556c43-ae9c-4184-96a7-c82ff515d970)
 
